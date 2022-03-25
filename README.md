@@ -1,6 +1,5 @@
 # Hi👋,  I am Md. Naushad Ahamed
-#### Web Developer
-![Web Developer](https://www.gamesreviews.com/wp-content/uploads/2020/03/20170301155447.jpg)
+### Web Developer
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 

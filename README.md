@@ -3,7 +3,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  JS / HTML / CSS
+####Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on JavaScript's Data Structures and Algorithms 
 - 🌱 I’m currently learning React 
@@ -14,7 +14,7 @@ Skills:  JS / HTML / CSS
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naushadcom)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Naushad Ahamed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Naushad Ahamed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Md Naushad Ahamed/)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=naushadcom)](https://github.com/ryo-ma/github-profile-trophy)
 

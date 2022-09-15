@@ -1,4 +1,4 @@
-<img align="center" alt="developer" width="100%" height="15%" src="https://thumbs.dreamstime.com/z/i-web-developer-animated-typography-i-web-developer-animated-typography-concept-futuristic-177213221.jpg">
+<img align="center" alt="developer" width="100%" height="10%" src="https://thumbs.dreamstime.com/z/i-web-developer-animated-typography-i-web-developer-animated-typography-concept-futuristic-177213221.jpg">
 <h1 align="center">Hi 👋, I'm Naushad Ahamed.</h1>
 <h3 align="center">Logical and result-driven full stack developer dedicated to building optimizing user-focused websites and applications. Judicious and creative when crafting effective websites and platforms to propel competitive advantage and revenue growth.</h2>
 

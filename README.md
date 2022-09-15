@@ -2,17 +2,15 @@
 <h1 align="center">Hi 👋, I'm Naushad Ahamed.</h1>
 <h3 align="center">Logical and result-driven full stack developer dedicated to building optimizing user-focused websites and applications. Judicious and creative when crafting effective websites and platforms to propel competitive advantage and revenue growth.</h2>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naushadcom&label=Profile%20views&color=0e75b6&style=flat" alt="naushadcom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-
-trophy.vercel.app/?username=naushadcom" alt="naushadcom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naushadcom" alt="naushadcom" /></a> </p>
+
 
 # 💫 About Me:
 <h4> Portfolio : <a href="https://naushad-ahamed.netlify.app/" target="_blank" >Naushad Ahamed</a>  </h4>
 <h4> Resume: <a href="https://drive.google.com/file/d/1NBLPDsI26m_KmQt5NAvz953r9tTkFuTy/view" target="_blank" >Naushad Ahamed</a>  </h4>
-<img align="right" alt="Coding" width="400" src="https://admin.scale3c.com/api/wp-content/uploads/2019/08/Future-of-Front-End-Development2020.png"/>
+
 🔭 I have recently worked on [MyFitnessPal clone](https://myfitnesspal-clone.netlify.app/)
 🌱 I have recently learnt **Node js, Express.js, MongoDB**
 🔭 I’m currently working on **Full-Stack-Projext**

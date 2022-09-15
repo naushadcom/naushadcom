@@ -25,10 +25,8 @@
 
 
 ## 🌐 Socials:
-<p align="left">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-ahamed-796899220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-ahamed-796899220/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@royalmanofalltime)
-
 
 
 # 💻 Tech Stack:

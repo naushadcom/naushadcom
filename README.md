@@ -13,15 +13,15 @@
 <h4> Resume: <a href="https://drive.google.com/file/d/1NBLPDsI26m_KmQt5NAvz953r9tTkFuTy/view" target="_blank" >Naushad Ahamed</a>  </h4>
 
 - 🔭 I’m currently working on **Full-Stack-Project**
-
+<br><br>
 - 💬 Ask me about **DSA,MERN Stack, TypeScript etc**
-
+<br><br>
 - I have recently worked on [MyFitnessPal clone](https://myfitnesspal-clone.netlify.app/)
-
+<br><br>
 - 🌱 I have recently learnt **Node js, Express.js, MongoDB**
-
+<br><br>
 - 📫 Reach me at my email **ahamednaushad10@gmail.com**
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

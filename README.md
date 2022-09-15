@@ -12,15 +12,15 @@
 <h4> Portfolio : <a href="https://naushad-ahamed.netlify.app/" target="_blank" >Naushad Ahamed</a>  </h4>
 <h4> Resume: <a href="https://drive.google.com/file/d/1NBLPDsI26m_KmQt5NAvz953r9tTkFuTy/view" target="_blank" >Naushad Ahamed</a>  </h4>
 
-
-
-- 🔭 I’m currently working on **Backend Projects**
-
-- 🌱 I’m currently learning **MongoDB**
+- 🔭 I’m currently working on **Full-Stack-Project**
 
 - 💬 Ask me about **DSA,MERN Stack, TypeScript etc**
 
-- 📫 How to reach me **bishtparth795@gmail.com**
+- I have recently worked on [MyFitnessPal clone](https://myfitnesspal-clone.netlify.app/)
+
+- 🌱 I have recently learnt **Node js, Express.js, MongoDB**
+
+- 📫 Reach me at my email **ahamednaushad10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

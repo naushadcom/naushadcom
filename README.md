@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋, I'm Md. Naushad Ahamed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="center" alt="developer" width="100%" height="20%" src="https://thumbs.dreamstime.com/z/i-web-developer-animated-typography-i-web-developer-animated-typography-concept-futuristic-177213221.jpg">
+<h1 align="center">Hi 👋, I'm Naushad Ahamed.</h1>
+<h2>Logical and result-driven full stack developer dedicated to building optimizing user-focused websites and applications. Judicious and creative when crafting effective websites and platforms to propel competitive advantage and revenue growth.</h2>
 
-<h3> Portfolio : <a href="https://naushad-ahamed.netlify.app/" target="_blank" >Naushad Ahamed</a>  </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naushadcom&label=Profile%20views&color=0e75b6&style=flat" alt="naushadcom" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naushadcom" alt="naushadcom" /></a> </p>
 
+# 💫 About Me:
+<h3> Portfolio : <a href="https://naushad-ahamed.netlify.app/" target="_blank" >Naushad Ahamed</a>  </h3>
+🔭 I have recently worked on [MyFitnessPal clone](https://myfitnesspal-clone.netlify.app/)
+<br>
+<br>
+🌱 I have recently learnt **Node js, Express.js, MongoDB**<br><br>
 - 🌱 I’m currently learning **React JS, Redux**
 
 - 💬 Ask me about **React , DSA**

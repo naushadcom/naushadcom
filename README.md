@@ -12,17 +12,12 @@ trophy.vercel.app/?username=naushadcom" alt="naushadcom" /></a> </p>
 # 💫 About Me:
 <h4> Portfolio : <a href="https://naushad-ahamed.netlify.app/" target="_blank" >Naushad Ahamed</a>  </h4>
 <h4> Resume: <a href="https://drive.google.com/file/d/1NBLPDsI26m_KmQt5NAvz953r9tTkFuTy/view" target="_blank" >Naushad Ahamed</a>  </h4>
+<img align="right" alt="Coding" width="400" src="https://admin.scale3c.com/api/wp-content/uploads/2019/08/Future-of-Front-End-Development2020.png"/>
 🔭 I have recently worked on [MyFitnessPal clone](https://myfitnesspal-clone.netlify.app/)
-<br>
-<br>
-🌱 I have recently learnt **Node js, Express.js, MongoDB**<br><br>
-  <img align="right" alt="Coding" width="400" src="https://admin.scale3c.com/api/wp-content/uploads/2019/08/Future-of-Front-End-Development2020.png"/>
-
-- 🔭 I’m currently working on **Full-Stack-Projext**
-
-- 💬 Ask me about **DSA,MERN Stack, TypeScript etc**
-
-- 📫 How to reach me **ahamednaushad10@gmail.com**
+🌱 I have recently learnt **Node js, Express.js, MongoDB**
+🔭 I’m currently working on **Full-Stack-Projext**
+💬 Ask me about **DSA,MERN Stack, TypeScript etc**
+📫 How to reach me **ahamednaushad10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

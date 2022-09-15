@@ -6,30 +6,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naushadcom&label=Profile%20views&color=0e75b6&style=flat" alt="naushadcom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naushadcom" alt="naushadcom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-
+trophy.vercel.app/?username=naushadcom" alt="naushadcom" /></a> </p>
 
 # 💫 About Me:
-<h3> Portfolio : <a href="https://naushad-ahamed.netlify.app/" target="_blank" >Naushad Ahamed</a>  </h3>
+<h4> Portfolio : <a href="https://naushad-ahamed.netlify.app/" target="_blank" >Naushad Ahamed</a>  </h4>
+<h4> Resume: <a href="https://drive.google.com/file/d/1NBLPDsI26m_KmQt5NAvz953r9tTkFuTy/view" target="_blank" >Naushad Ahamed</a>  </h4>
 🔭 I have recently worked on [MyFitnessPal clone](https://myfitnesspal-clone.netlify.app/)
 <br>
 <br>
 🌱 I have recently learnt **Node js, Express.js, MongoDB**<br><br>
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
+  <img align="right" alt="Coding" width="400" src="https://admin.scale3c.com/api/wp-content/uploads/2019/08/Future-of-Front-End-Development2020.png"/>
 
-- 🔭 I’m currently working on **Backend Projects**
-
-- 🌱 I’m currently learning **MongoDB**
-
-- 👨‍💻 My Portfolio link [https://parthportfolio.netlify.app/](https://parthportfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 🔭 I’m currently working on **Full-Stack-Projext**
 
 - 💬 Ask me about **DSA,MERN Stack, TypeScript etc**
 
-- 📫 How to reach me **bishtparth795@gmail.com**
-
-- 📄 My resume [https://drive.google.com/file/d/1pHrqyhXHanb-KhpMSQ9hK53mRon3O5tp/view](https://drive.google.com/file/d/1pHrqyhXHanb-KhpMSQ9hK53mRon3O5tp/view)
-
+- 📫 How to reach me **ahamednaushad10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

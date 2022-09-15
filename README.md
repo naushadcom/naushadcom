@@ -14,11 +14,22 @@
 <br>
 <br>
 🌱 I have recently learnt **Node js, Express.js, MongoDB**<br><br>
-- 🌱 I’m currently learning **React JS, Redux**
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif"/>
 
-- 💬 Ask me about **React , DSA**
+- 🔭 I’m currently working on **Backend Projects**
 
-- 📫 How to reach me **17naushad2002@gmail.com**
+- 🌱 I’m currently learning **MongoDB**
+
+- 👨‍💻 My Portfolio link [https://parthportfolio.netlify.app/](https://parthportfolio.netlify.app/)
+
+- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+
+- 💬 Ask me about **DSA,MERN Stack, TypeScript etc**
+
+- 📫 How to reach me **bishtparth795@gmail.com**
+
+- 📄 My resume [https://drive.google.com/file/d/1pHrqyhXHanb-KhpMSQ9hK53mRon3O5tp/view](https://drive.google.com/file/d/1pHrqyhXHanb-KhpMSQ9hK53mRon3O5tp/view)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

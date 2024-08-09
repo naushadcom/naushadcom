@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=naushadcom&show_icons=true&locale=en" alt="naushadcom" width='48%' height="40px" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naushadcom&" alt="naushadcom"  width='48%' />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=naushadcom&show_icons=true&locale=en" alt="naushadcom" width='48%' height="100px" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naushadcom&" alt="naushadcom"  width='48%' />
 
 
 

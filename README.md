@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Credit-Card-Finalcial-Dashboard**
+- 🔭 I’m currently working on **Credit-Card-Financial-Dashboard**
 
-- 👯 I’m looking to collaborate on **Any Data Anlysis Project**
+- 👯 I’m looking to collaborate on **Any Data Analysis Project**
 
 - 💬 Ask me about **Python SQL PowerBI Excel**
 
@@ -27,8 +27,8 @@
 
 ## 📊 GitHub Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=naushadcom&show_icons=true&locale=en" alt="naushadcom" width='48%' />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naushadcom&" alt="naushadcom"  width='48%' />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=naushadcom&show_icons=true&locale=en" alt="naushadcom" width='48%' /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naushadcom&" alt="naushadcom"  width='48%' />
+
 
 
 

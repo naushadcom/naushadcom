@@ -1,6 +1,5 @@
 <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-preview
 <h1 align="center">Hi 👋, I'm Md Naushad Ahamed</h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 

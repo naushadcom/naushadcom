@@ -21,6 +21,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-ahamed-796899220/)
+[![twitter](https://img.shields.io/badge/twitter-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-ahamed-796899220/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

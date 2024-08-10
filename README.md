@@ -18,18 +18,24 @@
 - 💬 Ask me about **Python SQL PowerBI Excel**
 - 📫 How to reach me **ahamednaushad10@gmail.com**
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-ahamed-796899220/)
-[![Static Badge](https://img.shields.io/badge/Kaggle-blue)](https://www.kaggle.com/naushadahamed)
+[![Static Badge](https://img.shields.io/badge/kaggle-darkblue?logo=kaggle&logoColor=white)](https://www.kaggle.com/naushadahamed)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ahamednaushad10)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/naushadahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naushadahamed" height="30" width="40" /></a>
-</p>
+## Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![PYTHON](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%230033A0.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![EXCEL](https://img.shields.io/badge/excel-%231572B6.svg?style=for-the-badge&logo=excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%233C7748.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F7C100.svg?style=for-the-badge&logo=power-bi&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats:
 

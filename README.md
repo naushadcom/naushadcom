@@ -24,7 +24,7 @@
 [![Static Badge](https://img.shields.io/badge/kaggle-darkblue?logo=kaggle&logoColor=white)](https://www.kaggle.com/naushadahamed)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ahamednaushad10)
 
-## Languages and Tools:
+## 💻 Languages and Tools:
 
 ![PYTHON](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)

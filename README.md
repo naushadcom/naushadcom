@@ -1,7 +1,7 @@
 <img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
 <h1 align="center">Hi 👋, I'm Md Naushad Ahamed</h1>
-<h3 align="center">A passionate Data Analyst from India.</h3>
+<h3 align="center">A passionate Data Analyst from India.Transforming Data into Insights, uncovering Trends and Insights Through Data Analysis and Visualization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naushadcom&label=Profile%20views&color=0e75b6&style=flat" alt="naushadcom" /> </p>
 

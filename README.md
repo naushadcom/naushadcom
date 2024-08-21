@@ -23,7 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-ahamed-796899220/)
 [![Static Badge](https://img.shields.io/badge/kaggle-darkblue?logo=kaggle&logoColor=white)](https://www.kaggle.com/naushadahamed)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ahamednaushad10)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](ahamednaushad10@gmail.com)
 
 ## 💻 Languages and Tools:
 

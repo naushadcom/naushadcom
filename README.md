@@ -29,7 +29,6 @@
 ![PYTHON](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%230033A0.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![EXCEL](https://img.shields.io/badge/excel-%231572B6.svg?style=for-the-badge&logo=excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-%233C7748.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F7C100.svg?style=for-the-badge&logo=power-bi&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)

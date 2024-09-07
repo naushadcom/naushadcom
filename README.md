@@ -13,7 +13,7 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on **Credit-Card-Financial-Dashboard**
+- 🔭 I’m currently working on **Blinkit_Analysis**
 - 👯 I’m looking to collaborate on **Any Data Analysis Project**
 - 💬 Ask me about **Python SQL PowerBI Excel**
 - 📫 How to reach me **ahamednaushad10@gmail.com**
